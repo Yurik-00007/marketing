@@ -613,10 +613,12 @@ body{
 display: none;
 }
 }
-
-
-
-
+---------------------------------------------Поведение прокрутки-------------------------------------------
+Определяет поведение прокрутки внутри элемента — плавная прокрутка или мгновенный переход.
+scroll-behavior: smooth;
+но не визде работает тоже самое можно сделать с помощью jquery но нужно внести изменения в script
+<script src="./js/main.js"></script>
+Плавный скролл: https://webcomplex.com.ua/jquery/plavnyj-skroll-posle-nazhatiya-na-yakornuyu-ssylku.html
 
 
 
@@ -789,5 +791,7 @@ display: none;
 12. fancybox -для открытия видео:
     https://fancyapps.com/fancybox/3/
     https://daruse.ru/podklyuchenie-i-nastrojka-fancybox
+13. Плавный скролл: 
+https://webcomplex.com.ua/jquery/plavnyj-skroll-posle-nazhatiya-na-yakornuyu-ssylku.html
 
 
