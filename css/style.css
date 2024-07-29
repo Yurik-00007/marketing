@@ -1107,16 +1107,18 @@ body {
     .portfolio__numbers-item {
         width: 100%;
     }
-    .footer__social-list{
-width: 50%;
-    }
 
+    .footer__social-list {
+        width: 50%;
+    }
+}
 @media (max-width: 340px) {
     .expertise__item {
         padding-left: 0;
         padding-top: 60px;
     }
 }
+
 
 
 
